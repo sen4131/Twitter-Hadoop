@@ -1,0 +1,15 @@
+crontab configuration
+
+crontab -e
+
+type <i>nsert
+
+enter
+
+*/5 * * * * /home/training/test/Twitter-Copy1.py
+*/10 * * * * /home/training/test/launch_flume_all.sh
+*/15 * * * * /home/training/test/kill_flume.sh
+
+type <esc><:wq> to commit the file
+
+
