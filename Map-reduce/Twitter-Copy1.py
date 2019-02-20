@@ -14,11 +14,11 @@ import json
 import datetime
 
 
-consumer_key = 'e0kR8fmgTOP48NxMZYgYgsJc9'
-consumer_secret = 'ysjXuoBkQZ6MaxprQcVq3HEmnA5PoYKkTk0y1ZWhoXbgMiwmnQ'
+consumer_key = 
+consumer_secret = 
 
-access_token = '490741828-j42sBHbOFeKJ8MJxnR3olhHQvwALUnP6WT405gNB'
-access_token_secret = 'xLExJhhJzj9UdDNV1TxAaDOb8WNE0VkrVWqcPbQXZfasq'
+access_token = 
+access_token_secret = 
 
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
